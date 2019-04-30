@@ -16,3 +16,5 @@ Complie the above code of stackExample.cpp using :- **g++ stackExample.cpp -o st
 >Queues are a type of container which operate according to first in first out (FIFO) principle i.e. the first element that is added to the queue is the first one to be removed. Elements are always added to the back and removed from the front.<br/>
 Check queue.h for it's implementaion and queueExample.cpp for how to use it.</br>
 Complie the above code of queueExample.cpp using :- **g++ queueExample.cpp -o queueExample.exe**
+
+**NOTE** :- Before compiling make sure that you have respective header file in your working folder.
