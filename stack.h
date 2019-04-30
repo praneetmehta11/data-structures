@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 Implementation of stack is just after SinglyLinked List
-beacuse SinglyLinkedList is a part of stack 
+beacuse SinglyLinkedList is used in stack 
 */
 
 int stringLength(const char *msg)
